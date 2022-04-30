@@ -1,0 +1,10 @@
+
+Create a file on branch b1
+
+# vim file4 
+# git add file4
+# git commit -m "added file4"
+# git ls-files
+# git log --oneline   // 1 new commit which is not on master right now
+
+
