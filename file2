@@ -1,0 +1,19 @@
+<h1>What is the solution when :
+
+- A developer has to manage or track changes to the code.
+- When multiple developers have to work simutenously and contribute to final code
+- When we have to track who or when changes were made.
+- When we have to manage all the older versions of the code.
+
+The Solution is: SOURCE CODE MANAGEMENT SYSTEM or VERSION CONTROL SYSTEM
+
+What is a Version Control System:
+_____________________________________________
+
+- A system that documents changes made to a file or set of files.
+- manages multiple revisions to files
+- manages files from multiple users.
+"It is snapshot of your project overtime"
+
+Types of Version Control System:
+
